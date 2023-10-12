@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Expenses",
+            "sub_categories": [
+                {
+                    "id": 1,
+                    "title": "Household Items"
+                },
+                {
+                    "id": 2,
+                    "title": "House repair/maintenance"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Income",
+            "sub_categories": [
+                {
+                    "id": 1,
+                    "title": "Salary"
+                },
+                {
+                    "id": 2,
+                    "title": "Investment"
+                }
+            ]
+        }
+    ]
+}
